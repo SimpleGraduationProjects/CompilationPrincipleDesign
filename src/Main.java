@@ -6,7 +6,7 @@ import java.util.List;
 public class Main {
 
     public static void main(String[] args) throws Exception {
-        runFile("H:\\javalhy\\lhy\\tmp\\block1.i");
+        runFile("tmp/block1.i");
     }
 
     private static void runFile(String path) throws Exception {
